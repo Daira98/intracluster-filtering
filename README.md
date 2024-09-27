@@ -1,4 +1,9 @@
-# Intra Cluster Filtering
+![image](https://github.com/user-attachments/assets/7bc660f9-fc84-47fa-90fc-72546d49bc7c)
+
+# Detection of intra-class outliers with neural networks
+
+The Phyton library DIONN ...
+
 
 ## Installation Instructions
 
